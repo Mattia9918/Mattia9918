@@ -8,4 +8,4 @@ I have worked and currently work on projects mainly based on:
 * Kotlin
 * Javascript (React client + NodeJS express server)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mattia9918.visitor-badge&left_text=Visitors)
